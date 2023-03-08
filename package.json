@@ -1,0 +1,35 @@
+{
+    "name": "cachebuster",
+    "version": "1.0.0",
+    "description": "Clear the Cloudflare cache based on percy snapshots",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js",
+      "build": "",
+      "test": "npx @google-cloud/functions-framework --target=run"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ryntab/cachebuster.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ryntab/cachebuster/issues"
+    },
+    "homepage": "https://github.com/ryntab/cachebuster#readme",
+    "dependencies": {
+      "@google-cloud/storage": "^6.9.3",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "fast-png": "^6.1.0",
+      "fs": "^0.0.1-security",
+      "node-fetch": "^3.3.0",
+      "nodemon": "^2.0.20",
+      "pixel-buffer-diff": "^1.3.3",
+      "sharp": "^0.31.3",
+      "slack-notify": "^2.0.6"
+    }
+  }
+  

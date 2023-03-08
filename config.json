@@ -1,0 +1,47 @@
+{
+    "sites": [
+      {
+        "name": "Epicstream",
+        "url": "https://epicstream.com/"
+      }
+    ],
+    "base": {
+      "name": "(London, UK) Europe-West-2",
+      "edge": "https://screen-grabber-base-united-kingdom-zilbgc6v4a-nw.a.run.app"
+    },
+    "locations": [
+      {
+        "name": "(Mumbai, India) Asia-South-1",
+        "edge": "https://screen-grabber-india-zilbgc6v4a-el.a.run.app"
+      },
+      {
+        "name": "(Warsaw, Poland) Europe-Central-2",
+        "edge": "https://screen-grabber-poland-zilbgc6v4a-lm.a.run.app"
+      },
+      {
+        "name": "(Moncks Corner, South Carolina, USA) US-East-1",
+        "edge": "https://screen-grabber-south-carolina-zilbgc6v4a-ue.a.run.app"
+      },
+      {
+        "name": "(Osasco, São Paulo, Brazil, South America) South-America-East-1",
+        "edge": "https://screen-grabber-brazil-zilbgc6v4a-rj.a.run.app"
+      },
+      {
+        "name": "(Sydney, Australia) Australia-Southeast-1",
+        "edge": "https://screen-grabber-australia-zilbgc6v4a-ts.a.run.app"
+      },
+      {
+        "name": "(Tokyo, Japan) Asia-Northeast-1",
+        "edge": "https://screen-grabber-japan-zilbgc6v4a-an.a.run.app"
+      },
+      {
+        "name": "(Frankfurt, Germany) Europe-West-3",
+        "edge": "https://screen-grabber-germany-zilbgc6v4a-ey.a.run.app"
+      },
+      {
+        "name": "(Jurong West, Singapore) Asia-SouthEast-1",
+        "edge": "https://screen-grabber-singapore-zilbgc6v4a-as.a.run.app"
+      }
+    ]
+  }
+  
